@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# 🏥 Hospital Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A smart, modular solution for managing outpatient queues, bed availability, and patient admissions across hospitals and clinics — designed to reduce wait times, optimize resources, and improve patient care.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Modules Overview
 
-### `npm start`
+### 1. **OPD Queuing System**
+- Online appointment booking
+- Real-time queue tracking
+- Intelligent prioritization (risk-based, emergency, preferred time slots)
+- Patient check-in and live updates for staff
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. **Bed Availability Tracker** *(Planned)*
+- Live updates on ward/ICU bed status
+- Color-coded dashboard for staff/admin
+- Integration with admission workflow
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 3. **Patient Admission Manager** *(Planned)*
+- Automated admission flow from OPD or ER
+- Historical patient data lookups
+- Alerts for high-risk or recurring patients
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔑 Key Features
 
-### `npm run build`
+- 📲 Web-based booking and tracking
+- 🧠 ML-powered triage system (risk classification)
+- ⏱ Reduced manual intervention & waiting time
+- 🏥 Scalable design for multiple hospitals/cities
+- 🛡 Secure data handling and user management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Layer        | Tech Used                      |
+|--------------|--------------------------------|
+| Frontend     | React.js, Tailwind CSS         |
+| Backend      | FastAPI (Python) / Node.js     |
+| Database     | MongoDB / PostgreSQL           |
+| ML/AI Module | Python, Scikit-learn / PyTorch |
+| Deployment   | Docker, Render, Vercel         |
 
-### `npm run eject`
+----
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🔁 Clone the Repository
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/your-username/hospital-management-system.git
+cd hospital-management-system
