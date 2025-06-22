@@ -1,0 +1,77 @@
+.card-container {
+    display: flex;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+.image-section {
+    position: relative;
+    width: 30%;
+}
+
+.image-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.content-section {
+    padding: 16px;
+    width: 40%;
+}
+
+.hospital-name {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #333;
+}
+
+.location-info span {
+    font-size: 14px;
+    color: #666;
+    margin-top: 8px;
+    display: block;
+}
+
+.timing-info {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #555;
+}
+
+.benefits {
+    margin-top: 16px;
+    list-style-type: none;
+    padding: 0;
+    color: #555;
+}
+
+.contact-section {
+    padding: 16px;
+    width: 30%;
+    background-color: #f9f9f9;
+    border-left: 1px solid #e1e1e1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.appointment-link {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-bottom: 16px;
+}
+
+.contact-info {
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}

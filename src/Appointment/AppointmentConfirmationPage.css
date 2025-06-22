@@ -1,0 +1,39 @@
+/* src/components/AppointmentConfirmationPage.css */
+
+.confirmation-container {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
+  .butt {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .butt:hover {
+    background-color: #0056b3;
+  }
+  
+  @media (max-width: 768px) {
+    .confirmation-container {
+      padding: 20px;
+    }
+  
+    .butt {
+      width: 100%;
+    }
+  }
+  

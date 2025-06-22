@@ -1,0 +1,902 @@
+[
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd371"
+        },
+        "itemName": "Paracetamol 500mg",
+        "itemCategory": "Medicine",
+        "itemDescription": "Used to reduce fever and relieve mild to moderate pain.",
+        "sku": "MED12345",
+        "stockInformation": {
+            "quantity": 500,
+            "reorderLevel": 100,
+            "unitPrice": 5,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH001",
+                    "manufactureDate": "2023-05-10",
+                    "expiryDate": "2025-05-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "ABC Pharmaceuticals",
+            "supplierContact": "+91-9876543210",
+            "supplierEmail": "contact@abcpharma.com",
+            "supplierAddress": "123 Pharma Street, Delhi, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf A1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize use for fever cases.",
+            "enteredBy": "User123"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd372"
+        },
+        "itemName": "Ibuprofen 400mg",
+        "itemCategory": "Medicine",
+        "itemDescription": "Used to relieve pain, reduce inflammation, and bring down fever.",
+        "sku": "MED12346",
+        "stockInformation": {
+            "quantity": 300,
+            "reorderLevel": 50,
+            "unitPrice": 3,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH002",
+                    "manufactureDate": "2023-04-15",
+                    "expiryDate": "2025-04-15"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "XYZ Pharmaceuticals",
+            "supplierContact": "+91-9876543211",
+            "supplierEmail": "support@xyzpharma.com",
+            "supplierAddress": "456 Health Road, Mumbai, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf B1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for inflammation cases.",
+            "enteredBy": "User124"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd373"
+        },
+        "itemName": "Aspirin 75mg",
+        "itemCategory": "Medicine",
+        "itemDescription": "Used to reduce fever, pain, and prevent blood clots.",
+        "sku": "MED12347",
+        "stockInformation": {
+            "quantity": 200,
+            "reorderLevel": 30,
+            "unitPrice": 4,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH003",
+                    "manufactureDate": "2023-03-20",
+                    "expiryDate": "2025-03-20"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "DEF Pharmaceuticals",
+            "supplierContact": "+91-9876543212",
+            "supplierEmail": "info@defpharma.com",
+            "supplierAddress": "789 Care Avenue, Bangalore, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf C1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for heart patients.",
+            "enteredBy": "User125"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd374"
+        },
+        "itemName": "Amoxicillin 500mg",
+        "itemCategory": "Antibiotic",
+        "itemDescription": "Used to treat bacterial infections.",
+        "sku": "ANTB12348",
+        "stockInformation": {
+            "quantity": 600,
+            "reorderLevel": 150,
+            "unitPrice": 8,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH004",
+                    "manufactureDate": "2023-07-01",
+                    "expiryDate": "2025-07-01"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "GHI Pharmaceuticals",
+            "supplierContact": "+91-9876543213",
+            "supplierEmail": "orders@ghipharma.com",
+            "supplierAddress": "1012 Wellness Lane, Chennai, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf D1",
+            "storageConditions": "Store at room temperature"
+        },
+        "additionalInformation": {
+            "notes": "Prescribe for bacterial infections.",
+            "enteredBy": "User126"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd375"
+        },
+        "itemName": "Cetirizine 10mg",
+        "itemCategory": "Antihistamine",
+        "itemDescription": "Used to relieve allergy symptoms such as runny nose and sneezing.",
+        "sku": "ANTH12349",
+        "stockInformation": {
+            "quantity": 400,
+            "reorderLevel": 80,
+            "unitPrice": 2,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH005",
+                    "manufactureDate": "2023-06-15",
+                    "expiryDate": "2025-06-15"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "JKL Pharmaceuticals",
+            "supplierContact": "+91-9876543214",
+            "supplierEmail": "service@jklpharma.com",
+            "supplierAddress": "1314 Remedy Drive, Hyderabad, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf E1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for allergy cases.",
+            "enteredBy": "User127"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd376"
+        },
+        "itemName": "Metformin 500mg",
+        "itemCategory": "Antidiabetic",
+        "itemDescription": "Used to control high blood sugar in patients with type 2 diabetes.",
+        "sku": "ANTD12350",
+        "stockInformation": {
+            "quantity": 350,
+            "reorderLevel": 100,
+            "unitPrice": 6,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH006",
+                    "manufactureDate": "2023-02-10",
+                    "expiryDate": "2025-02-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "MNO Pharmaceuticals",
+            "supplierContact": "+91-9876543215",
+            "supplierEmail": "sales@mnopharma.com",
+            "supplierAddress": "1516 Health Plaza, Pune, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf F1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize for diabetic patients.",
+            "enteredBy": "User128"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd377"
+        },
+        "itemName": "Atorvastatin 10mg",
+        "itemCategory": "Cholesterol Medicine",
+        "itemDescription": "Used to lower cholesterol levels in the blood.",
+        "sku": "CHOL12351",
+        "stockInformation": {
+            "quantity": 250,
+            "reorderLevel": 60,
+            "unitPrice": 7,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH007",
+                    "manufactureDate": "2023-01-25",
+                    "expiryDate": "2025-01-25"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "PQR Pharmaceuticals",
+            "supplierContact": "+91-9876543216",
+            "supplierEmail": "inquiry@pqrpharma.com",
+            "supplierAddress": "1718 Cure Boulevard, Kolkata, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf G1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients with high cholesterol.",
+            "enteredBy": "User129"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd378"
+        },
+        "itemName": "Lisinopril 10mg",
+        "itemCategory": "Blood Pressure Medicine",
+        "itemDescription": "Used to treat high blood pressure and heart failure.",
+        "sku": "BP12352",
+        "stockInformation": {
+            "quantity": 150,
+            "reorderLevel": 40,
+            "unitPrice": 9,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH008",
+                    "manufactureDate": "2023-03-05",
+                    "expiryDate": "2025-03-05"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "STU Pharmaceuticals",
+            "supplierContact": "+91-9876543217",
+            "supplierEmail": "support@stupharma.com",
+            "supplierAddress": "1920 Wellness Road, Delhi, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf H1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for hypertension patients.",
+            "enteredBy": "User130"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd379"
+        },
+        "itemName": "Omeprazole 20mg",
+        "itemCategory": "Antacid",
+        "itemDescription": "Used to treat acid reflux and stomach ulcers.",
+        "sku": "ANTC12353",
+        "stockInformation": {
+            "quantity": 280,
+            "reorderLevel": 70,
+            "unitPrice": 5,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH009",
+                    "manufactureDate": "2023-07-10",
+                    "expiryDate": "2025-07-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "VWX Pharmaceuticals",
+            "supplierContact": "+91-9876543218",
+            "supplierEmail": "contact@vwxpharma.com",
+            "supplierAddress": "2122 Pharmacy Street, Jaipur, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf I1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Prescribe for acid-related issues.",
+            "enteredBy": "User131"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd380"
+        },
+        "itemName": "Losartan 50mg",
+        "itemCategory": "Blood Pressure Medicine",
+        "itemDescription": "Used to treat high blood pressure and protect the kidneys.",
+        "sku": "BP12354",
+        "stockInformation": {
+            "quantity": 220,
+            "reorderLevel": 50,
+            "unitPrice": 8,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH010",
+                    "manufactureDate": "2023-08-15",
+                    "expiryDate": "2025-08-15"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "YZA Pharmaceuticals",
+            "supplierContact": "+91-9876543219",
+            "supplierEmail": "info@yazpharma.com",
+            "supplierAddress": "2324 Wellness Avenue, Ahmedabad, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf J1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients with kidney issues.",
+            "enteredBy": "User132"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd381"
+        },
+        "itemName": "Salbutamol Inhaler",
+        "itemCategory": "Respiratory Medicine",
+        "itemDescription": "Used to treat or prevent bronchospasm in patients with asthma.",
+        "sku": "RESP12355",
+        "stockInformation": {
+            "quantity": 100,
+            "reorderLevel": 20,
+            "unitPrice": 15,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH011",
+                    "manufactureDate": "2023-09-01",
+                    "expiryDate": "2025-09-01"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "BCD Pharmaceuticals",
+            "supplierContact": "+91-9876543220",
+            "supplierEmail": "service@bcdpharma.com",
+            "supplierAddress": "2526 Health Drive, Lucknow, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf K1",
+            "storageConditions": "Store at room temperature"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize for asthma patients.",
+            "enteredBy": "User133"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd382"
+        },
+        "itemName": "Clopidogrel 75mg",
+        "itemCategory": "Blood Thinner",
+        "itemDescription": "Used to prevent blood clots in patients with heart conditions.",
+        "sku": "BLT12356",
+        "stockInformation": {
+            "quantity": 240,
+            "reorderLevel": 60,
+            "unitPrice": 10,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH012",
+                    "manufactureDate": "2023-08-20",
+                    "expiryDate": "2025-08-20"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "EFG Pharmaceuticals",
+            "supplierContact": "+91-9876543221",
+            "supplierEmail": "orders@efgpharma.com",
+            "supplierAddress": "2728 Cure Road, Surat, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf L1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for heart patients.",
+            "enteredBy": "User134"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd383"
+        },
+        "itemName": "Insulin Injection",
+        "itemCategory": "Antidiabetic",
+        "itemDescription": "Used to control blood sugar levels in patients with diabetes.",
+        "sku": "ANTD12357",
+        "stockInformation": {
+            "quantity": 500,
+            "reorderLevel": 100,
+            "unitPrice": 25,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH013",
+                    "manufactureDate": "2023-09-05",
+                    "expiryDate": "2025-09-05"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "HIJ Pharmaceuticals",
+            "supplierContact": "+91-9876543222",
+            "supplierEmail": "support@hijpharma.com",
+            "supplierAddress": "2930 Health Lane, Delhi, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf M1",
+            "storageConditions": "Store in a refrigerator"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize for diabetic patients.",
+            "enteredBy": "User135"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd384"
+        },
+        "itemName": "Warfarin 5mg",
+        "itemCategory": "Blood Thinner",
+        "itemDescription": "Used to prevent and treat blood clots.",
+        "sku": "BLT12358",
+        "stockInformation": {
+            "quantity": 180,
+            "reorderLevel": 50,
+            "unitPrice": 12,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH014",
+                    "manufactureDate": "2023-07-15",
+                    "expiryDate": "2025-07-15"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "KLM Pharmaceuticals",
+            "supplierContact": "+91-9876543223",
+            "supplierEmail": "info@klmpharma.com",
+            "supplierAddress": "3132 Pharma Street, Mumbai, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf N1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients at risk of blood clots.",
+            "enteredBy": "User136"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd385"
+        },
+        "itemName": "Metoprolol 50mg",
+        "itemCategory": "Beta Blocker",
+        "itemDescription": "Used to treat high blood pressure and angina.",
+        "sku": "BP12359",
+        "stockInformation": {
+            "quantity": 320,
+            "reorderLevel": 80,
+            "unitPrice": 7,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH015",
+                    "manufactureDate": "2023-06-25",
+                    "expiryDate": "2025-06-25"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "NOP Pharmaceuticals",
+            "supplierContact": "+91-9876543224",
+            "supplierEmail": "orders@noppharma.com",
+            "supplierAddress": "3334 Cure Lane, Chennai, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf O1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for patients with high blood pressure.",
+            "enteredBy": "User137"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd386"
+        },
+        "itemName": "Simvastatin 20mg",
+        "itemCategory": "Cholesterol Medicine",
+        "itemDescription": "Used to lower cholesterol levels in the blood.",
+        "sku": "CHOL12360",
+        "stockInformation": {
+            "quantity": 290,
+            "reorderLevel": 70,
+            "unitPrice": 6,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH016",
+                    "manufactureDate": "2023-05-10",
+                    "expiryDate": "2025-05-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "QRS Pharmaceuticals",
+            "supplierContact": "+91-9876543225",
+            "supplierEmail": "support@qrspharma.com",
+            "supplierAddress": "3536 Wellness Boulevard, Pune, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf P1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients with high cholesterol.",
+            "enteredBy": "User138"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd387"
+        },
+        "itemName": "Hydrochlorothiazide 25mg",
+        "itemCategory": "Diuretic",
+        "itemDescription": "Used to treat high blood pressure and fluid retention.",
+        "sku": "DUR12361",
+        "stockInformation": {
+            "quantity": 260,
+            "reorderLevel": 60,
+            "unitPrice": 5,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH017",
+                    "manufactureDate": "2023-04-20",
+                    "expiryDate": "2025-04-20"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "TUV Pharmaceuticals",
+            "supplierContact": "+91-9876543226",
+            "supplierEmail": "inquiry@tuvpharma.com",
+            "supplierAddress": "3738 Health Avenue, Bangalore, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf Q1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for hypertension and edema.",
+            "enteredBy": "User139"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd388"
+        },
+        "itemName": "Amlodipine 5mg",
+        "itemCategory": "Calcium Channel Blocker",
+        "itemDescription": "Used to treat high blood pressure and chest pain.",
+        "sku": "BP12362",
+        "stockInformation": {
+            "quantity": 340,
+            "reorderLevel": 70,
+            "unitPrice": 4,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH018",
+                    "manufactureDate": "2023-03-10",
+                    "expiryDate": "2025-03-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "WXY Pharmaceuticals",
+            "supplierContact": "+91-9876543227",
+            "supplierEmail": "contact@wxypharma.com",
+            "supplierAddress": "3940 Wellness Drive, Hyderabad, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf R1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize for patients with angina.",
+            "enteredBy": "User140"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd389"
+        },
+        "itemName": "Dexamethasone 0.5mg",
+        "itemCategory": "Corticosteroid",
+        "itemDescription": "Used to treat inflammation and allergic reactions.",
+        "sku": "CORT12363",
+        "stockInformation": {
+            "quantity": 370,
+            "reorderLevel": 90,
+            "unitPrice": 2,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH019",
+                    "manufactureDate": "2023-07-01",
+                    "expiryDate": "2025-07-01"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "ZAB Pharmaceuticals",
+            "supplierContact": "+91-9876543228",
+            "supplierEmail": "sales@zabpharma.com",
+            "supplierAddress": "4142 Pharma Lane, Kolkata, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf S1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for inflammatory conditions.",
+            "enteredBy": "User141"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd390"
+        },
+        "itemName": "Cefixime 200mg",
+        "itemCategory": "Antibiotic",
+        "itemDescription": "Used to treat bacterial infections.",
+        "sku": "ANTB12364",
+        "stockInformation": {
+            "quantity": 150,
+            "reorderLevel": 50,
+            "unitPrice": 20,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH020",
+                    "manufactureDate": "2023-08-01",
+                    "expiryDate": "2025-08-01"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "CDE Pharmaceuticals",
+            "supplierContact": "+91-9876543229",
+            "supplierEmail": "info@cdepharma.com",
+            "supplierAddress": "4344 Wellness Street, Ahmedabad, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf T1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for bacterial infections.",
+            "enteredBy": "User142"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd391"
+        },
+        "itemName": "Ibuprofen 400mg",
+        "itemCategory": "Pain Reliever",
+        "itemDescription": "Used to relieve pain and reduce fever.",
+        "sku": "PAIN12365",
+        "stockInformation": {
+            "quantity": 310,
+            "reorderLevel": 80,
+            "unitPrice": 3,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH021",
+                    "manufactureDate": "2023-04-15",
+                    "expiryDate": "2025-04-15"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "FGH Pharmaceuticals",
+            "supplierContact": "+91-9876543230",
+            "supplierEmail": "orders@fghpharma.com",
+            "supplierAddress": "4546 Pharma Avenue, Jaipur, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf U1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Prioritize for pain management.",
+            "enteredBy": "User143"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd392"
+        },
+        "itemName": "Levothyroxine 50mcg",
+        "itemCategory": "Thyroid Medicine",
+        "itemDescription": "Used to treat hypothyroidism.",
+        "sku": "THYR12366",
+        "stockInformation": {
+            "quantity": 400,
+            "reorderLevel": 100,
+            "unitPrice": 5,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH022",
+                    "manufactureDate": "2023-05-20",
+                    "expiryDate": "2025-05-20"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "HIJ Pharmaceuticals",
+            "supplierContact": "+91-9876543231",
+            "supplierEmail": "contact@hijpharma.com",
+            "supplierAddress": "4748 Health Drive, Lucknow, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf V1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients with hypothyroidism.",
+            "enteredBy": "User144"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd393"
+        },
+        "itemName": "Metformin 500mg",
+        "itemCategory": "Antidiabetic",
+        "itemDescription": "Used to control blood sugar levels in patients with type 2 diabetes.",
+        "sku": "ANTD12367",
+        "stockInformation": {
+            "quantity": 330,
+            "reorderLevel": 90,
+            "unitPrice": 6,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH023",
+                    "manufactureDate": "2023-06-10",
+                    "expiryDate": "2025-06-10"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "JKL Pharmaceuticals",
+            "supplierContact": "+91-9876543232",
+            "supplierEmail": "support@jklpharma.com",
+            "supplierAddress": "4950 Wellness Lane, Delhi, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf W1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for type 2 diabetic patients.",
+            "enteredBy": "User145"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd394"
+        },
+        "itemName": "Esomeprazole 40mg",
+        "itemCategory": "Antacid",
+        "itemDescription": "Used to treat acid reflux and GERD.",
+        "sku": "ANTC12368",
+        "stockInformation": {
+            "quantity": 270,
+            "reorderLevel": 70,
+            "unitPrice": 8,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH024",
+                    "manufactureDate": "2023-07-05",
+                    "expiryDate": "2025-07-05"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "MNO Pharmaceuticals",
+            "supplierContact": "+91-9876543233",
+            "supplierEmail": "info@mnopharma.com",
+            "supplierAddress": "5152 Cure Street, Mumbai, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf X1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Use for patients with GERD.",
+            "enteredBy": "User146"
+        },
+        "LoginID": "user5595"
+    },
+    {
+        "_id": {
+            "$oid": "66d4d6c92e0548dd4dbdd395"
+        },
+        "itemName": "Diclofenac 50mg",
+        "itemCategory": "Pain Reliever",
+        "itemDescription": "Used to relieve pain and inflammation.",
+        "sku": "PAIN12369",
+        "stockInformation": {
+            "quantity": 250,
+            "reorderLevel": 60,
+            "unitPrice": 4,
+            "batchDetails": [
+                {
+                    "batchNumber": "BATCH025",
+                    "manufactureDate": "2023-06-20",
+                    "expiryDate": "2025-06-20"
+                }
+            ]
+        },
+        "supplierInformation": {
+            "supplierName": "PQR Pharmaceuticals",
+            "supplierContact": "+91-9876543234",
+            "supplierEmail": "orders@pqrpharma.com",
+            "supplierAddress": "5354 Pharma Avenue, Surat, India"
+        },
+        "storageInformation": {
+            "storageLocation": "Pharmacy Shelf Y1",
+            "storageConditions": "Store in a cool and dry place"
+        },
+        "additionalInformation": {
+            "notes": "Recommended for pain and inflammation.",
+            "enteredBy": "User147"
+        },
+        "LoginID": "user5595"
+    }
+]
